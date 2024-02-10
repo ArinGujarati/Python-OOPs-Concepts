@@ -8,9 +8,7 @@ In Python, object-oriented Programming (OOPs) is a programming paradigm that use
 
 ## OOPs Concepts in Python
 
-- [Class](https://github.com/ArinGujarati/Python-OOPs-Concepts/blob/master/class.ipynb)
-- [Objects](https://github.com/ArinGujarati/Python-OOPs-Concepts/blob/master/class.ipynb)
-- [Polymorphism](https://github.com/ArinGujarati/Python-OOPs-Concepts/blob/master/class.ipynb)
-- [Encapsulation](https://github.com/ArinGujarati/Python-OOPs-Concepts/blob/master/class.ipynb)
-- [Inheritance](https://github.com/ArinGujarati/Python-OOPs-Concepts/blob/master/class.ipynb)
-- [Data Abstraction](https://github.com/ArinGujarati/Python-OOPs-Concepts/blob/master/class.ipynb)
+- [Class](https://github.com/ArinGujarati/Python-OOPs-Concepts/blob/master/Class.ipynb)
+- [Polymorphism](https://github.com/ArinGujarati/Python-OOPs-Concepts/blob/master/Polymorphism.ipynb)
+- [Encapsulation](https://github.com/ArinGujarati/Python-OOPs-Concepts/blob/master/Encapsulation.ipynb)
+- [Inheritance](https://github.com/ArinGujarati/Python-OOPs-Concepts/blob/master/Inheritance.ipynb)
